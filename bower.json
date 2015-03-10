@@ -1,0 +1,19 @@
+{
+  "name": "lab8sem",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jgluhov/lab8sem",
+  "authors": [
+    "jgluhov <jgluhov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "almond": "~0.3.1"
+  }
+}
