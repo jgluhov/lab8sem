@@ -1,0 +1,26 @@
+{
+  "name": "lab8sem",
+  "version": "1.0.0",
+  "description": "\"Лабораторная работа по предмету Численные Методы\"",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgluhov/lab8sem.git"
+  },
+  "keywords": [
+    "lab",
+    "work"
+  ],
+  "author": "jgluhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgluhov/lab8sem/issues"
+  },
+  "homepage": "https://github.com/jgluhov/lab8sem",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  }
+}
